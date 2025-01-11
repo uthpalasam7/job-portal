@@ -1,0 +1,77 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Build output
+dist/
+
+# Vite
+.vite
+
+# Static assets
+*.local
+*.env
+.env.*
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Optional TypeScript
+*.tsbuildinfo
+
+# Coverage directory
+coverage/
+
+# Test output
+junit.xml
+
+# Miscellaneous
+*.swp
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.code-workspace
+
+# Local env files
+.env.local
+.env.*.local
+
+# Yarn Integrity
+.yarn-integrity
+
+# Parcel-bundler cache (https://parceljs.org/)
+.cache
+
+# macOS files
+._*
